@@ -1,5 +1,7 @@
 ## Black and white image colorization using Python, OpenCV and Deep Learning
 
+![RGB](https://media.geeksforgeeks.org/wp-content/uploads/20220303145941/finalPhone-300x154.png)  
+
 ### Overview
 This script is designed to colorize a black-and-white (grayscale) image using a pre-trained deep learning model. 
 The model was originally created by researchers at UC Berkeley and has been made available for public use. 
@@ -7,11 +9,17 @@ The script uses OpenCV's deep neural network (DNN) module to perform the coloriz
 
 ## Steps to deploy
 
-download the repo as a zip file or run
+#### Prerequirements
+
+Active version of Python
+Git Version Control
+PIP package installer
+
+#### Download the repo as a zip file or run
 
 `git clone https://github.com/lhcee3/Image-Colorization-DL.git`
 
-import the packages by running the command in cli
+#### Import the packages by running the command in cli
 
 `pip install opencv-python numpy argparse os`
 
@@ -26,5 +34,5 @@ You can execute it using the commands
 
 `python color.py --image images/4.jpg`
 
-Feel Free to Contribute !
+#### Feel Free to Contribute !
 
