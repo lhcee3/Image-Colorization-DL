@@ -1,7 +1,6 @@
 ## Black and white image colorization using Python, OpenCV and Deep Learning
 
 ![RGB](https://media.geeksforgeeks.org/wp-content/uploads/20220303145941/finalPhone-300x154.png) 
-
 ![rgr](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOLYlXefwiSeNVOxf7c-JSSPbRBppNLejNMw&s)
 
 ### Overview
